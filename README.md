@@ -8,7 +8,7 @@ You can access the live preview clicking [here]().
 
 ## Preview
 
-![App Screenshot](./src/assets/thumbnail.png)
+![App Screenshot](./thumbnail.png)
 
 ## 🚀 How can I set up the backend?
 
